@@ -1,0 +1,358 @@
+Client 192.168.1.7 attempted connection with username: admin1, password: kkr
+Command "ls" executed by 192.168.1.7
+Command "cat jumpbox1.conf" executed by 192.168.1.7
+Command "whoami" executed by 192.168.1.7
+Command "exit" executed by 192.168.1.7
+Command "exit" executed by 192.168.1.7
+Client 192.168.1.7 attempted connection with username: admin2, password: ls
+Command "ls" executed by 192.168.1.7
+Command "whoami" executed by 192.168.1.7
+Command "uptime" executed by 192.168.1.7
+Command "cat config.txt" executed by 192.168.1.7
+Command "exit" executed by 192.168.1.7
+Command "cat jumpbox1.conf" executed by 192.168.157.1
+Command "whoami" executed by 192.168.157.1
+Command "pwd" executed by 192.168.157.1
+Command "exit" executed by 192.168.157.1
+Client 192.168.1.7 attempted connection with username: admin1, password: ggs
+Command "ls" executed by 192.168.1.7
+Command "cat jumpbox1" executed by 192.168.1.7
+Command "ls" executed by 192.168.1.7
+Command "cat jumpbox1.conf" executed by 192.168.1.7
+Command "whoami" executed by 192.168.1.7
+Command "pwd" executed by 192.168.1.7
+Command "exit" executed by 192.168.1.7
+Client 192.168.1.7 attempted connection with username: admin1, password: ggs12
+Command "ls" executed by 192.168.1.7
+Command "whoami" executed by 192.168.1.7
+Command "ls" executed by 192.168.1.7
+Command "exit" executed by 192.168.1.7
+Client 192.168.1.7 attempted connection with username: admin1, password: 1234
+Command "ls" executed by 192.168.1.7
+Command "yyt" executed by 192.168.1.7
+Command "whoami" executed by 192.168.1.7
+Command "pwd" executed by 192.168.1.7
+Command "" executed by 192.168.1.7
+Command "exit" executed by 192.168.1.7
+Client 192.168.1.7 attempted connection with username: admin1, password: 21222
+Command "ls" executed by 192.168.1.7
+Command "exit" executed by 192.168.1.7
+Client 192.168.1.7 attempted connection with username: kkr, password: eetrg
+Command "ls" executed by 192.168.1.7
+Command "cp" executed by 192.168.1.7
+Command "ping" executed by 192.168.1.7
+Command "[A[Bping" executed by 192.168.1.7
+Command "ifconfig" executed by 192.168.1.7
+Command "ssh" executed by 192.168.1.7
+Command "ssh" executed by 192.168.1.7
+Command "\" executed by 192.168.1.7
+Command "top" executed by 192.168.1.7
+Command "scp" executed by 192.168.1.7
+Command "free -m" executed by 192.168.1.7
+Command "uptime" executed by 192.168.1.7
+Command "whoami" executed by 192.168.1.7
+Command "cat .ssh/id_rsa" executed by 192.168.1.7
+Command "dir" executed by 192.168.1.7
+Command "cat system.log" executed by 192.168.1.7
+Command b'\x16cat /stc/hosts' executed by 192.168.1.7
+Command b'cat /etc/hosts' executed by 192.168.1.7
+Command b'exit' executed by 192.168.1.7
+Client 192.168.1.7 attempted connection with username: admin2, password: gggh
+Command b'ls' executed by 192.168.1.7
+Command b'ifconfig' executed by 192.168.1.7
+Command b'exit' executed by 192.168.1.7
+Client 192.168.1.7 attempted connection with username: admin2, password: 1234
+Command b'ls' executed by 192.168.1.7
+Command b'ifconfig' executed by 192.168.1.7
+Client 192.168.1.7 attempted connection with username: admin2, password: adimr
+Command ls executed by 192.168.1.7
+Command netsat executed by 192.168.1.7
+Command netstat -an executed by 192.168.1.7
+Client 192.168.1.7 attempted connection with username: admin1, password: 1234
+Command ls executed by 192.168.1.7
+Command netstat -an executed by 192.168.1.7
+Command ssh executed by 192.168.1.7
+Command  executed by 192.168.1.7
+Command [A[Bsh[D[Dssh executed by 192.168.1.7
+Command ifcn[Donfig executed by 192.168.1.7
+Command if [Dconfig executed by 192.168.1.7
+Command ls executed by 192.168.1.7
+Client 192.168.1.7 attempted connection with username: admin1, password: oops
+Command ls executed by 192.168.1.7
+Command ifconfig executed by 192.168.1.7
+Client 192.168.1.7 attempted connection with username: admin1, password: 12332
+Command ls executed by 192.168.1.7
+Command whoami executed by 192.168.1.7
+Command uname -a executed by 192.168.1.7
+Command ifconfig executed by 192.168.1.7
+Client 192.168.1.7 attempted connection with username: admin2, password: llka
+Command "ls" executed by 192.168.1.7
+Command "cat jumpbox1.conf" executed by 192.168.1.7
+Command "[A[B[A[B[B[Aexit" executed by 192.168.1.7
+Command "" executed by 192.168.1.7
+Command "exit" executed by 192.168.1.7
+Client 192.168.157.1 attempted connection with username: admin1, password: 1234
+Command "ls" executed by 192.168.157.1
+Command "cat jumpbox1.cong" executed by 192.168.157.1
+
+Client 192.168.1.7 attempted connection with username: admin, password: lssgh
+Command b'ls'executed by 192.168.1.7
+Command b'assj'executed by 192.168.1.7
+Command b'cat jumbox1.conf'executed by 192.168.1.7
+Command b'\x1b[A\x1b[Bcat jumpbox1.conf'executed by 192.168.1.7
+Client 127.0.0.1 attempted connection with username: admin, password: gg
+Command b'ls'executed by 127.0.0.1
+Client 192.168.1.7 attempted connection with username: putty login, password: passs
+Command b'ls'executed by 192.168.1.7
+Command b'cat jumpbox1.conf'executed by 192.168.1.7
+Command b'pwd'executed by 192.168.1.7
+Command b'whoami'executed by 192.168.1.7
+Client 192.168.1.7 attempted connection with username: csk, password: lost321
+Command b'ls'executed by 192.168.1.7
+Client 192.168.1.7 attempted connection with username: admin, password: pwd
+Command b'ls'executed by 192.168.1.7
+Command b'ig\x7f'executed by 192.168.1.7
+Command b'ifconfig'executed by 192.168.1.7
+Command b'uptime'executed by 192.168.1.7
+Command b'cat user_accounts.txt'executed by 192.168.1.7
+Command b'uname -a'executed by 192.168.1.7
+Command b'netstat -tuln'executed by 192.168.1.7
+Client 192.168.1.7 attempted connection with username: admin2, password: esla
+Command b'ls' executed by 192.168.1.7
+Command b'ifconfig' executed by 192.168.1.7
+Client 192.168.1.7 attempted connection with username: admin2, password: esla
+Command b'ls' executed by 192.168.1.7
+Command b'ifcong\x7f' executed by 192.168.1.7
+Command b'f' executed by 192.168.1.7
+Command b'ifconfig' executed by 192.168.1.7
+Command b'\x16\x16cat /etc/hosts' executed by 192.168.1.7
+Command b'df -h' executed by 192.168.1.7
+Command b'ps aux' executed by 192.168.1.7
+Client 192.168.1.7 attempted connection with username: admin1, password: 1234
+Command b'ls' executed by 192.168.1.7
+Command b'ifconfig' executed by 192.168.1.7
+Client 192.168.1.7 attempted connection with username: admin2, password: gg
+Command b'ls' executed by 192.168.1.7
+Command b'ifconfig' executed by 192.168.1.7
+Client 192.168.1.7 attempted connection with username: ak, password: badly
+Command "ls" executed by 192.168.1.7
+Command "whoami" executed by 192.168.1.7
+Command "exit" executed by 192.168.1.7
+Client 192.168.1.7 attempted connection with username: ak, password: uuuu
+Command "l" executed by 192.168.1.7
+Command "uptime" executed by 192.168.1.7
+Command "cat system.log" executed by 192.168.1.7
+Command "ping goooge" executed by 192.168.1.7
+Command "free -m" executed by 192.168.1.7
+Command "wxit" executed by 192.168.1.7
+Command "exit" executed by 192.168.1.7
+Client 192.168.1.7 attempted connection with username: esla, password: 12334
+Command "ls" executed by 192.168.1.7
+Command "exir" executed by 192.168.1.7
+Command "exit" executed by 192.168.1.7
+Client 192.168.157.93 attempted connection with username: naveen, password: ggh
+Command "ls" executed by 192.168.157.93
+Command "whoami" executed by 192.168.157.93
+Command "uptime" executed by 192.168.157.93
+Command "exit" executed by 192.168.157.93
+Client 192.168.157.178 attempted connection with username: naveen, password: 1234
+Command "ls" executed by 192.168.157.178
+Command "uptime" executed by 192.168.157.178
+Command "admin" executed by 192.168.157.178
+Command "whoami" executed by 192.168.157.178
+Command "ssh naveen" executed by 192.168.157.178
+Command "ls" executed by 192.168.157.178
+Command "wxit" executed by 192.168.157.178
+Command "exit" executed by 192.168.157.178
+Client 192.168.1.7 attempted connection with username: GG, password: pwd
+Command "ls" executed by 192.168.1.7
+Command "whoami" executed by 192.168.1.7
+Command "exit" executed by 192.168.1.7
+Client 192.168.157.99 attempted connection with username: ak, password: pwd
+Command "ls" executed by 192.168.157.99
+Command "sss" executed by 192.168.157.99
+Command "ssh y" executed by 192.168.157.99
+Command ";" executed by 192.168.157.99
+Command "ls" executed by 192.168.157.99
+Command "exit" executed by 192.168.157.99
+Client 192.168.157.99 attempted connection with username: csk, password: lostt
+Command "wg" executed by 192.168.157.99
+Command "whoami" executed by 192.168.157.99
+Command "ls" executed by 192.168.157.99
+Command "ssh to" executed by 192.168.157.99
+Command "uptime" executed by 192.168.157.99
+Command "exit" executed by 192.168.157.99
+Client 192.168.157.99 attempted connection with username: ak, password: admin2
+Command "uptime" executed by 192.168.157.99
+Command "ls" executed by 192.168.157.99
+Command "cat config.txt" executed by 192.168.157.99
+Command "exit" executed by 192.168.157.99
+Client 192.168.1.7 attempted connection with username: GG, password: pwd
+Client 127.0.0.1 attempted connection with username: csk, password: pwd
+Command "ls" executed by 127.0.0.1
+Client 127.0.0.1 attempted connection with username: csk, password: ls
+Command "ls" executed by 127.0.0.1
+Command "pwd" executed by 127.0.0.1
+Command "whoami" executed by 127.0.0.1
+Command "ssh" executed by 127.0.0.1
+Command "ssh 22022" executed by 127.0.0.1
+Command "exit" executed by 127.0.0.1
+Client 127.0.0.1 attempted connection with username: admin2, password: pwd
+Command "ls" executed by 127.0.0.1
+Command "cat .ssh/id_rsa" executed by 127.0.0.1
+Command "ssh r" executed by 127.0.0.1
+Command "ls" executed by 127.0.0.1
+Command "cat system.log" executed by 127.0.0.1
+Command "cat syastem.log" executed by 127.0.0.1
+Command "cat .ssh /id_rsa" executed by 127.0.0.1
+Command "exit'" executed by 127.0.0.1
+Command "exit" executed by 127.0.0.1
+Client 127.0.0.1 attempted connection with username: admin1, password: ls
+Command "ls" executed by 127.0.0.1
+Command "id" executed by 127.0.0.1
+Client 127.0.0.1 attempted connection with username: admin1, password: lx
+Command "ls" executed by 127.0.0.1
+Command "uptime" executed by 127.0.0.1
+Command "cat[C[C" executed by 127.0.0.1
+Command "env" executed by 127.0.0.1
+Command "ip addr" executed by 127.0.0.1
+Command "ipconif" executed by 127.0.0.1
+Command "ipconfig" executed by 127.0.0.1
+Command "ifconfig" executed by 127.0.0.1
+Command "l[C[Cs" executed by 127.0.0.1
+Command "ls" executed by 127.0.0.1
+Command "idir" executed by 127.0.0.1
+Command "exit" executed by 127.0.0.1
+Client 127.0.0.1 attempted connection with username: csk, password: 1234
+Command "ls" executed by 127.0.0.1
+Command "ifconfig" executed by 127.0.0.1
+Client 127.0.0.1 attempted connection with username: csk, password: 1234
+Command "ls" executed by 127.0.0.1
+Command "ip addr" executed by 127.0.0.1
+Command "uptime" executed by 127.0.0.1
+Command "[A[Buptime" executed by 127.0.0.1
+Command "[A[Buptime" executed by 127.0.0.1
+Command "df -h" executed by 127.0.0.1
+Command "exit" executed by 127.0.0.1
+Client 127.0.0.1 attempted connection with username: admin, password: 12234
+Client 192.168.1.7 attempted connection with username: GG, password: 1234
+                                                                        Client 192.168.1.7 attempted connection with username: GG, password: ls
+Client 192.168.1.7 attempted connection with username: GG, password: kj
+Client 192.168.1.7 attempted connection with username: GG, password: ls
+Command "ls" executed by 192.168.1.7
+Command "whoami" executed by 192.168.1.7
+Command "ssh y" executed by 192.168.1.7
+Command "exit" executed by 192.168.1.7
+Client 192.168.1.7 attempted connection with username: test, password: password123
+Command "ls" executed by 192.168.1.7
+Command "whoami" executed by 192.168.1.7
+Command "exit" executed by 192.168.1.7
+Client 192.168.1.7 attempted connection with username: naveen, password: lsg
+Command "ls" executed by 192.168.1.7
+Command "whoami" executed by 192.168.1.7
+Command "exirt" executed by 192.168.1.7
+Command "exit" executed by 192.168.1.7
+Client 192.168.1.7 attempted connection with username: test, password: letmein
+Command "ls" executed by 192.168.1.7
+Command "cat secrets.txt" executed by 192.168.1.7
+Command "exit" executed by 192.168.1.7
+Client 192.168.1.7 attempted connection with username: admin, password: letmein
+Client 192.168.1.7 attempted connection with username: test, password: 12345
+Client 192.168.1.7 attempted connection with username: admin, password: admin
+Client 192.168.1.7 attempted connection with username: mysql, password: 12345
+Client 192.168.1.7 attempted connection with username: user, password: password123
+Client 192.168.1.7 attempted connection with username: mysql, password: 12345
+Client 192.168.1.7 attempted connection with username: oracle, password: admin
+Client 192.168.1.7 attempted connection with username: root, password: 123456
+Client 192.168.1.7 attempted connection with username: ubuntu, password: root
+Client 192.168.1.7 attempted connection with username: admin, password: qwerty
+Client 127.0.0.1 attempted connection with username: admin, password: ls
+Client 127.0.0.1 attempted connection with username: admin, password: 1234
+Command "ls" executed by 127.0.0.1
+Command "ping f" executed by 127.0.0.1
+Command "exit" executed by 127.0.0.1
+Client 127.0.0.1 attempted connection with username: csk, password: 12334
+Command "ls" executed by 127.0.0.1
+Command "ping h" executed by 127.0.0.1
+Command "exit" executed by 127.0.0.1
+Client 127.0.0.1 attempted connection with username: csk, password: gg
+Command "ls" executed by 127.0.0.1
+Command ";ls" executed by 127.0.0.1
+Command "[Dls" executed by 127.0.0.1
+Client 127.0.0.1 attempted connection with username: csk, password: 1234
+Command "ls" executed by 127.0.0.1
+Command "ls" executed by 127.0.0.1
+Command "ls" executed by 127.0.0.1
+Command "cat system.llog" executed by 127.0.0.1
+Client 127.0.0.1 attempted connection with username: esla, password: 1234
+Client 192.168.1.7 attempted connection with username: user, password: root
+Client 127.0.0.1 attempted connection with username: esla, password: 1234
+Client 127.0.0.1 attempted connection with username: esla, password: 1234
+Client 127.0.0.1 attempted connection with username: esla, password: 1234
+Client 127.0.0.1 attempted connection with username: esla, password: 123
+Client 127.0.0.1 attempted connection with username: esla, password: 1111
+Client 127.0.0.1 attempted connection with username: esla, password: asad
+Command "ls" executed by 127.0.0.1
+Command "whoami" executed by 127.0.0.1
+Command "exit" executed by 127.0.0.1
+Client 127.0.0.1 attempted connection with username: esla, password: ls
+Command "ls" executed by 127.0.0.1
+Command "cat config.conf" executed by 127.0.0.1
+Command "ps aux" executed by 127.0.0.1
+Command "exit" executed by 127.0.0.1
+Client 192.168.157.84 attempted connection with username: naveen, password: 1234
+Command "kls" executed by 192.168.157.84
+Command "ls" executed by 192.168.157.84
+Command "cat system.llog" executed by 192.168.157.84
+Command "ps aux" executed by 192.168.157.84
+Command "whoami" executed by 192.168.157.84
+Command "[A[Bcat eltc/shadow" executed by 192.168.157.84
+Command "cat /etc/shadow" executed by 192.168.157.84
+Command "cat /etc/passwd" executed by 192.168.157.84
+Command "uptime" executed by 192.168.157.84
+Command "cat cat" executed by 192.168.157.84
+Command "cat confiifig.conf" executed by 192.168.157.84
+Command "cat config.conf" executed by 192.168.157.84
+Command "exit" executed by 192.168.157.84
+Client 192.168.157.84 attempted connection with username: ak, password: ls
+Command "ls" executed by 192.168.157.84
+Command "whoami" executed by 192.168.157.84
+Command "date" executed by 192.168.157.84
+Command "uptim" executed by 192.168.157.84
+Command "uptime" executed by 192.168.157.84
+Command "exit" executed by 192.168.157.84
+Client 192.168.157.84 attempted connection with username: ak, password: 1111
+Command "exit" executed by 192.168.157.84
+Client 127.0.0.1 attempted connection with username: test, password: ls
+Command "ls" executed by 127.0.0.1
+Command "uptime" executed by 127.0.0.1
+Command "exit" executed by 127.0.0.1
+Client 127.0.0.1 attempted connection with username: test, password: 1234
+Command "ls" executed by 127.0.0.1
+Command "uptime" executed by 127.0.0.1
+Command "ip addr" executed by 127.0.0.1
+Command "exit" executed by 127.0.0.1
+Client 192.168.157.234 attempted connection with username: ak, password: ls
+Command "ls" executed by 192.168.157.234
+Command "uptime" executed by 192.168.157.234
+Command "exit" executed by 192.168.157.234
+Client 192.168.157.234 attempted connection with username: ak, password: 1234
+Command "ls" executed by 192.168.157.234
+Command "exit" executed by 192.168.157.234
+Client 192.168.157.75 attempted connection with username: ak, password: 1234
+Command "ls" executed by 192.168.157.75
+Command "ls" executed by 192.168.157.75
+Command "ls" executed by 192.168.157.75
+Command "ls" executed by 192.168.157.75
+Command "h" executed by 192.168.157.75
+Client 192.168.157.75 attempted connection with username: ak, password: 1234
+Client 192.168.157.75 attempted connection with username: user, password: 1234
+Command "" executed by 192.168.157.75
+Command "" executed by 192.168.157.75
+Command "" executed by 192.168.157.75
+Command "" executed by 192.168.157.75
+Command "ls - l" executed by 192.168.157.75
+Command "ls" executed by 192.168.157.75
+Command "ip addr" executed by 192.168.157.75
+Command "ps aux" executed by 192.168.157.75
+Client 127.0.0.1 attempted connection with username: test, password: ls
